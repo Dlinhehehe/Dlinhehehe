@@ -8,6 +8,7 @@
 - 🚀 Aspiring to create digital experiences that are both beautiful and intuitive
 
 ## Skills
+- Coding
 - 🎨 UI/UX Design
 - 📱 Responsive Web Design
 - 🖌️ Figma, Adobe XD, Sketch
